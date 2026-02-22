@@ -1,15 +1,5 @@
 # RTK-NRTK Redundancy & Crosstalk in Triple-Negative Breast Cancer
 
-# RTK-NRTK Redundancy & Crosstalk in Triple-Negative Breast Cancer
-
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=RTK-NRTK%20TNBC%20Project&fontSize=40&fontColor=white&animation=fadeIn" width="100%"/>
-</p>
-
-<p align="center">
-    <em>Decoding Kinase Redundancy Networks in Triple-Negative Breast Cancer</em>
-</p>
-
 ---
 
 ## 📊 **Project Status**
