@@ -1,18 +1,5 @@
 # RTK-NRTK Redundancy & Crosstalk in Triple-Negative Breast Cancer
 
-
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║     RTK-NRTK REDUNDANCY & CROSSTALK IN TRIPLE-NEGATIVE        ║
-║                    BREAST CANCER (TNBC)                        ║
-║                                                                ║
-║     Decoding Kinase Redundancy Networks in TNBC                ║
-║                                                                ║
-║     Northeastern University | Bioinformatics Research         ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-
-
 <p align="center">
     <!-- Status Badges -->
     <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge&logo=statuspage&logoColor=white" alt="Active Status">
