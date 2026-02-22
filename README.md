@@ -1,10 +1,11 @@
 # RTK-NRTK Redundancy & Crosstalk in Triple-Negative Breast Cancer
+```
 <p align="center">
   <img src="https://raw.githubusercontent.com/mtariqi/rtk_nrtk_tnbc/main/docs/banner.png" alt="RTK-NRTK TNBC Project Banner" width="800px">
   <br>
   <em>Decoding Kinase Redundancy Networks in Triple-Negative Breast Cancer</em>
 </p>
-
+```
 <p align="center">
   <!-- Badges -->
   <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge&logo=statuspage&logoColor=white" alt="Active Status">
