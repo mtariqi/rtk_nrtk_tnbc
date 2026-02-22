@@ -1,7 +1,47 @@
 # RTK-NRTK Redundancy & Crosstalk in Triple-Negative Breast Cancer
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![R](https://img.shields.io/badge/R-4.5%2B-blue)](https://www.r-project.org/)
-[![Python](https://img.shields.io/badge/Python-3.11%2B-green)](https://www.python.org/)
+
+# RTK-NRTK Redundancy & Crosstalk in Triple-Negative Breast Cancer
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=RTK-NRTK%20TNBC%20Project&fontSize=40&fontColor=white&animation=fadeIn" width="100%"/>
+</p>
+
+<p align="center">
+    <em>Decoding Kinase Redundancy Networks in Triple-Negative Breast Cancer</em>
+</p>
+
+---
+
+## 📊 **Project Status**
+
+<p align="center">
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/INSTITUTION-Northeastern%20University-CC0000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MCIgaGVpZ2h0PSI4MCIgdmlld0JveD0iMCAwIDgwIDgwIj48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMzkuOTk5IDBDMTcuOTE2IDAgMCAxNy45MTYgMCA0MHMxNy45MTYgNDAgNDAgNDAgNDAtMTcuOTE2IDQwLTQwUzYyLjA4NCAwIDQwIDB6bTAgNzJjLTE3LjY4IDAtMzItMTQuMzItMzItMzJzMTQuMzItMzIgMzItMzIgMzIgMTQuMzIgMzIgMzItMTQuMzIgMzItMzIgMzJ6bTAtNTZjLTEzLjI1NSAwLTI0IDEwLjc0NS0yNCAyNHMxMC43NDUgMjQgMjQgMjQgMjQtMTAuNzQ1IDI0LTI0LTEwLjc0NS0yNC0yNC0yNHoiLz48L3N2Zz4=" alt="Northeastern University"/>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/R-4.5%2B-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OS-Linux%2FUnix-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+## 📈 **Repository Stats**
+
+<p align="center">
+    <img src="https://img.shields.io/github/license/mtariqi/rtk_nrtk_tnbc?style=for-the-badge&label=LICENSE"/>
+    <img src="https://img.shields.io/github/last-commit/mtariqi/rtk_nrtk_tnbc?style=for-the-badge&label=LAST%20COMMIT"/>
+    <img src="https://img.shields.io/github/repo-size/mtariqi/rtk_nrtk_tnbc?style=for-the-badge&label=REPO%20SIZE"/>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/github/stars/mtariqi/rtk_nrtk_tnbc?style=for-the-badge&label=STARS"/>
+    <img src="https://img.shields.io/github/forks/mtariqi/rtk_nrtk_tnbc?style=for-the-badge&label=FORKS"/>
+    <img src="https://img.shields.io/badge/DOI-10.XXXXX%2FZENODO.XXXXXX-blue?style=for-the-badge"/>
+</p>
+
+---
 
 ## 📋 Overview
 
