@@ -69,7 +69,7 @@ source configs/fish_aliases.fish
 - Ubuntu 24 LTS / Fish shell
 - Conda/Mamba installed
 - Docker installed
-
+```
 ### Setup (5 minutes)
 
 ```bash
@@ -85,7 +85,7 @@ cd docker && docker compose up -d
 
 # 4. Verify setup
 jupyter notebook notebooks/00_setup_check.ipynb
-
+```
 ## Data Sources
 
 Database	Data Type	                Status
