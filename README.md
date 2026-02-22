@@ -263,7 +263,7 @@ Network construction
 If you use this pipeline in your research, please cite:
 Islam, M.T. (2026). RTK-NRTK Redundancy & Crosstalk in Triple-Negative 
 Breast Cancer: A Multi-Layer Bioinformatics & AI-Native Analysis. 
-GitHub: https://github.com/YOUR_USERNAME/rtk_nrtk_tnbc
+GitHub: https://github.com/mtariqi/rtk_nrtk_tnbc
 License
 MIT License - see LICENSE file for details.
 
