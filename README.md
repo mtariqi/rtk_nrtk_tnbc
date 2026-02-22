@@ -1,5 +1,5 @@
-# RTK-NRTK Redundancy & Crosstalk in Triple-Negative Breast Cancer
-```
+# 🧬 RTK-NRTK Redundancy & Crosstalk in Triple-Negative Breast Cancer
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/mtariqi/rtk_nrtk_tnbc/main/docs/banner.png" alt="RTK-NRTK TNBC Project Banner" width="800px">
   <br>
@@ -23,10 +23,6 @@
   <img src="https://img.shields.io/github/forks/mtariqi/rtk_nrtk_tnbc?style=for-the-badge" alt="Forks">
   <img src="https://img.shields.io/badge/DOI-10.XXXX%2Fzenodo.XXXXXX-blue?style=for-the-badge" alt="DOI">
 </p>
-```
----
-
-# 🧬 RTK-NRTK Redundancy & Crosstalk in Triple-Negative Breast Cancer
 
 ## 📋 Overview
 
