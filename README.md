@@ -5,7 +5,7 @@
   <br>
   <em>Decoding Kinase Redundancy Networks in Triple-Negative Breast Cancer</em>
 </p>
-```
+
 <p align="center">
   <!-- Badges -->
   <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge&logo=statuspage&logoColor=white" alt="Active Status">
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/github/forks/mtariqi/rtk_nrtk_tnbc?style=for-the-badge" alt="Forks">
   <img src="https://img.shields.io/badge/DOI-10.XXXX%2Fzenodo.XXXXXX-blue?style=for-the-badge" alt="DOI">
 </p>
-
+```
 ---
 
 # 🧬 RTK-NRTK Redundancy & Crosstalk in Triple-Negative Breast Cancer
@@ -66,7 +66,7 @@ git clone https://github.com/mtariqi/rtk_nrtk_tnbc.git && cd rtk_nrtk_tnbc && ba
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![R](https://img.shields.io/badge/R-4.5%2B-blue)](https://www.r-project.org/)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-green)](https://www.python.org/)
-
+```
 ## 📋 Overview
 
 This repository contains the complete computational pipeline for analyzing **Receptor Tyrosine Kinase (RTK)** and **Non-Receptor Tyrosine Kinase (NRTK)** redundancy networks in **Triple-Negative Breast Cancer (TNBC)**.
