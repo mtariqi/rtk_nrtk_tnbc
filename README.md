@@ -35,9 +35,10 @@ This repository contains the complete computational pipeline for analyzing **Rec
 
 ## 🏛️ Institutional Affiliation
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Northeastern_University_seal.svg/1200px-Northeastern_University_seal.svg.png" width="50" height="50" alt="NU Seal">
-  <strong>Northeastern University</strong> - Department of Bioinformatics
+<p align="center">
+    <img src="https://www.fotw.info/images/u/us_u_neu.jpg" alt="Northeastern University Seal" width="150px">
+    <br>
+    <em>Northeastern University</em>
 </p>
 
 ## 🚀 Quick Start
