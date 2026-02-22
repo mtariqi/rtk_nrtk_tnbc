@@ -1,4 +1,67 @@
 # RTK-NRTK Redundancy & Crosstalk in Triple-Negative Breast Cancer
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mtariqi/rtk_nrtk_tnbc/main/docs/banner.png" alt="RTK-NRTK TNBC Project Banner" width="800px">
+  <br>
+  <em>Decoding Kinase Redundancy Networks in Triple-Negative Breast Cancer</em>
+</p>
+
+<p align="center">
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge&logo=statuspage&logoColor=white" alt="Active Status">
+  <img src="https://img.shields.io/badge/Northeastern_University-Research-red?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MCIgaGVpZ2h0PSI4MCIgdmlld0JveD0iMCAwIDgwIDgwIj48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMzkuOTk5IDBDMTcuOTE2IDAgMCAxNy45MTYgMCA0MHMxNy45MTYgNDAgNDAgNDAgNDAtMTcuOTE2IDQwLTQwUzYyLjA4NCAwIDQwIDB6bTAgNzJjLTE3LjY4IDAtMzItMTQuMzItMzItMzJzMTQuMzItMzIgMzItMzIgMzIgMTQuMzIgMzIgMzItMTQuMzIgMzItMzIgMzJ6bTAtNTZjLTEzLjI1NSAwLTI0IDEwLjc0NS0yNCAyNHMxMC43NDUgMjQgMjQgMjQgMjQtMTAuNzQ1IDI0LTI0LTEwLjc0NS0yNC0yNC0yNHoiLz48L3N2Zz4=" alt="Northeastern University">
+  <img src="https://img.shields.io/badge/R-4.5%2B-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R 4.5+">
+  <img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.11+">
+  <img src="https://img.shields.io/badge/Linux/Unix-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux/Unix">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
+  <img src="https://img.shields.io/badge/CLI-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="CLI">
+  <br>
+  <img src="https://img.shields.io/github/license/mtariqi/rtk_nrtk_tnbc?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/github/last-commit/mtariqi/rtk_nrtk_tnbc?style=for-the-badge" alt="Last Commit">
+  <img src="https://img.shields.io/github/repo-size/mtariqi/rtk_nrtk_tnbc?style=for-the-badge" alt="Repo Size">
+  <img src="https://img.shields.io/github/stars/mtariqi/rtk_nrtk_tnbc?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/github/forks/mtariqi/rtk_nrtk_tnbc?style=for-the-badge" alt="Forks">
+  <img src="https://img.shields.io/badge/DOI-10.XXXX%2Fzenodo.XXXXXX-blue?style=for-the-badge" alt="DOI">
+</p>
+
+---
+
+# 🧬 RTK-NRTK Redundancy & Crosstalk in Triple-Negative Breast Cancer
+
+## 📋 Overview
+
+This repository contains the complete computational pipeline for analyzing **Receptor Tyrosine Kinase (RTK)** and **Non-Receptor Tyrosine Kinase (NRTK)** redundancy networks in **Triple-Negative Breast Cancer (TNBC)**.
+
+### 🔬 Research Questions
+
+- 🧪 How do RTKs and NRTKs compensate for each other in TNBC?
+- 🎯 What novel signaling hubs emerge from their crosstalk?
+- 💊 Can we predict drug resistance mechanisms from kinase redundancy patterns?
+
+## 🏛️ Institutional Affiliation
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Northeastern_University_seal.svg/1200px-Northeastern_University_seal.svg.png" width="50" height="50" alt="NU Seal">
+  <strong>Northeastern University</strong> - Department of Bioinformatics
+</p>
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+| Requirement | Version | Link |
+|------------|---------|------|
+| **R** | 4.5+ | [Download](https://cran.r-project.org/) |
+| **Python** | 3.11+ | [Download](https://www.python.org/) |
+| **Linux/Unix** | Ubuntu 22.04+ | [Download](https://ubuntu.com/) |
+| **Shell** | Bash/Fish | - |
+| **Conda** | 24.0+ | [Download](https://docs.conda.io/) |
+
+### ⚡ One-line Setup (Unix/Linux)
+
+```bash
+# Clone and setup in one command
+git clone https://github.com/mtariqi/rtk_nrtk_tnbc.git && cd rtk_nrtk_tnbc && bash scripts/setup/setup_env.sh
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![R](https://img.shields.io/badge/R-4.5%2B-blue)](https://www.r-project.org/)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-green)](https://www.python.org/)
