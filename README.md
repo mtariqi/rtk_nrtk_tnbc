@@ -21,6 +21,15 @@
     <img src="https://img.shields.io/badge/DOI-10.XXXX%2Fzenodo.XXXXXX-blue?style=for-the-badge" alt="DOI">
 </p>
 
+<p align="center">
+    <!-- AI & ML Badges (Compact) -->
+    <img src="https://img.shields.io/badge/LLM-OpenAI%20%7C%20Llama-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="LLM">
+    <img src="https://img.shields.io/badge/AI_Agent-Autonomous-8A2BE2?style=flat-square&logo=graphql&logoColor=white" alt="AI Agent">
+    <img src="https://img.shields.io/badge/AI_Native-End--to--End-00C7B7?style=flat-square&logo=tensorflow&logoColor=white" alt="AI Native">
+    <img src="https://img.shields.io/badge/RAG-Qdrant%20%7C%20LangChain-4B32C3?style=flat-square&logo=databricks&logoColor=white" alt="RAG">
+    <img src="https://img.shields.io/badge/BioBERT-PubMedBERT-FF6F61?style=flat-square&logo=python&logoColor=white" alt="BioBERT">
+    <img src="https://img.shields.io/badge/LangGraph-Stateful-764ABC?style=flat-square&logo=graphql&logoColor=white" alt="LangGraph">
+</p>
 <hr>
 
 ## 📋 Overview
