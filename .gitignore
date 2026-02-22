@@ -1,0 +1,36 @@
+# Data files (too large for GitHub)
+data/raw/
+data/processed/
+*.rds
+*.rda
+*.RData
+*.tar.gz
+*.gz
+*.zip
+
+# R stuff
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Python stuff
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.conda/
+envs/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+*.out
+*.err
+
+# OS
+.DS_Store
+Thumbs.db

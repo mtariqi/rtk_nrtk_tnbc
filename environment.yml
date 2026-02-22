@@ -1,0 +1,42 @@
+name: rtk_nrtk
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - r-base=4.3
+  - jupyter
+  - pip
+  - pip:
+    - biopython==1.83
+    - pydeseq2
+    - scanpy
+    - anndata
+    - gseapy
+    - networkx
+    - pyvis
+    - igraph
+    - leidenalg
+    - prody
+    - mdanalysis
+    - py3Dmol
+    - pandas
+    - numpy
+    - scipy
+    - scikit-learn
+    - statsmodels
+    - matplotlib
+    - seaborn
+    - plotly
+    - dash
+    - pysam
+    - pyvcf2
+    - intervaltree
+    - sentence-transformers
+    - qdrant-client
+    - langchain
+    - langchain-community
+    - llama-index
+    - pyspark
+    - apache-airflow
