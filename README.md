@@ -75,6 +75,23 @@ This repository contains the complete computational pipeline for analyzing **Rec
 - How do RTKs and NRTKs compensate for each other in TNBC?
 - What novel signaling hubs emerge from their crosstalk?
 - Can we predict drug resistance mechanisms from kinase redundancy patterns?
+---
+
+## Detailed Setup
+# 1. Clone the repository
+git clone https://github.com/mtariqi/rtk_nrtk_tnbc.git
+cd rtk_nrtk_tnbc
+
+# 2. Set up conda environment
+conda env create -f envs/environment.yml
+conda activate rtk_nrtk
+
+# 3. Set up R packages
+Rscript scripts/setup/install_r_packages.R
+
+# 4. Load aliases (Fish shell)
+source configs/fish_aliases.fish
+
 
 ## 🏗️ Project Structure
 
