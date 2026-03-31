@@ -17,7 +17,7 @@
 
 <br>
 
-*University of Arkansas for Medical Sciences (UAMS) — Bioinformatics & Breast Cancer esearch*
+*University of Arkansas for Medical Sciences (UAMS) — Bioinformatics & Breast Cancer research*
 
 </div>
 
