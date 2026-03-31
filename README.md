@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/github/repo-size/mtariqi/rtk_nrtk_tnbc?style=for-the-badge" alt="Repo Size">
     <img src="https://img.shields.io/github/stars/mtariqi/rtk_nrtk_tnbc?style=for-the-badge" alt="Stars">
     <img src="https://img.shields.io/github/forks/mtariqi/rtk_nrtk_tnbc?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/badge/DOI-10.XXXX%2Fzenodo.XXXXXX-blue?style=for-the-badge" alt="DOI">
+    <img src="https://img.shields.io/badge/[DOI-10.XXXX%2Fzenodo.XXXXXX-blue?style=for-the-badge" alt="DOI](https://doi.org/10.5281/zenodo.19355513)">
 </p>
 
 <p align="center">
