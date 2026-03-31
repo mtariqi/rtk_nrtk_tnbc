@@ -17,7 +17,7 @@
 
 <br>
 
-*Northeastern University — Computational Biology Research*
+*University of Arkansas for Medical Sciences (UAMS) — Bioinformatics & Breast Cancer esearch*
 
 </div>
 
@@ -235,7 +235,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## Contributors & Acknowledgments
 
-**Author:** [Md Tariqul Islam](https://github.com/mtariqi) — Northeastern University
+**Author:** [Md Tariqul Islam](https://github.com/mtariqi) — University of Arkansas for Medical Sciencs (UAMS)
 
 **Acknowledgments:**
 - [The Cancer Genome Atlas (TCGA)](https://www.cancer.gov/ccg/research/genome-sequencing/tcga) for open data access
